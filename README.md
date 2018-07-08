@@ -2,7 +2,7 @@
 <img src="https://github.com/serkanalgl/hydro-oauth2-java/blob/master/hydro_logo.png">
 
 ## Introduction
-<p>The Hydro Smart Contract is open source blockchain software developed by <a href="https://www.hydrogenplatform.com/">Hydrogen Platform</a>.</p>
+
 <p>This library helps people to authorize on Hydrogen APIs. Raindrop, Snowflake etc..</p>
 
 ## Dependency
