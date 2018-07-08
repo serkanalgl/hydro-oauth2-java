@@ -30,9 +30,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/serkanalgl/hydro-oauth2-java.git</connection>
-        <developerConnection>scm:git:ssh://github.com:serkanalgl/hydro-oauth2-java.git</developerConnection>
-        <url>http://github.com/serkanalgl/hydro-oauth2-java/tree/master</url>
+        <connection>scm:git:git@github.com/serkanalgl/hydro-oauth2-java.git</connection>
+        <developerConnection>scm:git:git@github.com/serkanalgl/hydro-oauth2-java.git</developerConnection>
+        <url>git@github.com:serkanalgl/hydro-oauth2-java</url>
     </scm>
 
     <properties>
