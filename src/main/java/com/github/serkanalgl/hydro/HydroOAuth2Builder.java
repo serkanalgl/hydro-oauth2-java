@@ -22,7 +22,7 @@
  * .environment(Environment.PRODUCTION)  //Either SANDBOX or PRODUCTION ( if you don't call environment method, default: SANDBOX )
  * .build();
  * <p>
- * Token token = hydroOAuth2.getToken().get();
+ * Token token = hydroOAuth2.getToken();
  */
 
 package com.github.serkanalgl.hydro;
