@@ -88,7 +88,9 @@ serkanalgl@gmail.com
 
 ## Donate
 
-Ethereum 0x575c1776c7812450ba6f91be117c9c092ae7acb7
+### Ethereum <br />
+
+<img src="https://github.com/serkanalgl/hydro-oauth2-java/blob/master/qr.png">
 
 
 ## Copyright
